@@ -1,6 +1,5 @@
 # together
-https://ahasan2912.github.io/together/
-
+[Live site](together/README.md)
 
 ## myLib documentation
 see documentation [here](myLib/README.md)
